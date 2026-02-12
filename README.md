@@ -104,3 +104,7 @@ I don't really use these skins but they're funny to have
 <img src="images/csgo.png" width="700px" />
 
 **[osuck download page](https://skins.osuck.net/skins/4262?tab=downloads)**
+
+### Replay Analyzer skin (Rewind)
+
+**[download from this repo](https://github.com/CLFlix/osuSkins/blob/main/KuroSkins.osk)**
